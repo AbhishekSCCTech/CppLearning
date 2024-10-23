@@ -1,0 +1,34 @@
+﻿  Average.cpp
+  Template.cpp
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         with
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         [
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:             T=int
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         ]
+  (compiling source file 'Template.cpp')
+      C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Template.cpp(4,18):
+          see reference to function template instantiation 'T Average<int>(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         with
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         [
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:             T=float
+C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20): warning C4244:         ]
+  (compiling source file 'Template.cpp')
+      C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Average.h(8,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\Template\Template.cpp(6,22):
+          see reference to function template instantiation 'T Average<float>(T,T)' being compiled
+          with
+          [
+              T=float
+          ]
+  
+  Generating Code...
+  Template.vcxproj -> C:\Users\Abhishek Suryawanshi\source\repos\cpplearn\x64\Debug\Template.exe
