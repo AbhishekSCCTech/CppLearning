@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-- **[Concurrency](https://github.com/AbhishekSCCTech/Translator/tree/main/Concurrency)**
+- **[Concurrency](https://github.com/AbhishekSCCTech/CppLearning/tree/main/Concurrency)**
 - **[Constant](https://github.com/AbhishekSCCTech/Translator/tree/main/Constant)**
 - **[Copy_constructor](https://github.com/AbhishekSCCTech/Translator/tree/main/Copy_constructor)**
 - **[Exceptional_handling](https://github.com/AbhishekSCCTech/Translator/tree/main/Exceptional_handling)**
